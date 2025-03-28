@@ -12,7 +12,22 @@ files = [
     {file = "base32_tiny-0.1.3.tar.gz", hash = "sha256:2fc59c65e5a632dffa7b238164f9cd0daae9791211ea8eff93d97f175053190d"},
 ]
 
+[[package]]
+name = "validators"
+version = "0.34.0"
+description = "Python Data Validation for Humans™"
+optional = false
+python-versions = ">=3.8"
+groups = ["main"]
+files = [
+    {file = "validators-0.34.0-py3-none-any.whl", hash = "sha256:c804b476e3e6d3786fa07a30073a4ef694e617805eb1946ceee3fe5a9b8b1321"},
+    {file = "validators-0.34.0.tar.gz", hash = "sha256:647fe407b45af9a74d245b943b18e6a816acf4926974278f6dd617778e1e781f"},
+]
+
+[package.extras]
+crypto-eth-addresses = ["eth-hash[pycryptodome] (>=0.7.0)"]
+
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.11"
-content-hash = "5cd81a09413c64bebc1508447116e8103abe13efe5e1945a7f15c4725840818e"
+content-hash = "c75e0d2f51b19d5a23660bbf748bc680a3f5ce90f466e04b4e70ab4d63fec5a4"
