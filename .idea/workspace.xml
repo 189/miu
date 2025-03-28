@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ee1a01d-05d3-4057-ac9d-fe89590d28a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/release.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miu/bytes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miu/validators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miu/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/miu/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miu/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/miu/core.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
