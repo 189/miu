@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79bfdb4f-8973-4747-a76c-c808f377cbae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/muzzy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/miu.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miu/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/muzzy/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miu/bytes.py" beforeDir="false" afterPath="$PROJECT_DIR$/muzzy/bytes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miu/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/muzzy/core.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miu/validators.py" beforeDir="false" afterPath="$PROJECT_DIR$/muzzy/validators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
