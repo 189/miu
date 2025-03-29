@@ -1,4 +1,4 @@
-from miu import base32_encode, base32_decode
+from muzzy import base32_encode, base32_decode
 
 message = base32_encode(b"f", "Crockford")
 

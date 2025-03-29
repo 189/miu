@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ee1a01d-05d3-4057-ac9d-fe89590d28a2" name="Changes" comment="">
+    <list default="true" id="79bfdb4f-8973-4747-a76c-c808f377cbae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/muzzy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/miu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miu/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/muzzy/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miu/bytes.py" beforeDir="false" afterPath="$PROJECT_DIR$/muzzy/bytes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miu/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/muzzy/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miu/validators.py" beforeDir="false" afterPath="$PROJECT_DIR$/muzzy/validators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,55 +24,35 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/miu/miu.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2uwpccuDRubJSJZn89DsY9gE6Kc" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2uzIqIGXXMujvT4ZVOelJFYtzZX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/git/miu/miu",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "D:/git/muzzy/examples/app.py",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\git\miu\miu" />
-      <recent name="D:\git\miu" />
-    </key>
-  </component>
   <component name="RunManager">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python">
-      <module name="miu" />
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python">
+      <module name="muzzy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Administrator\AppData\Local\pypoetry\Cache\virtualenvs\miu-Bpkm_pxv-py3.11\Scripts\python.exe" />
-      <option name="SDK_NAME" value="Python 3.11 (miu-Bpkm_pxv-py3.11)" />
+      <option name="SDK_HOME" value="C:\Users\Administrator\AppData\Local\pypoetry\Cache\virtualenvs\muzzy-FttdGXxv-py3.11\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (muzzy-FttdGXxv-py3.11)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -79,11 +70,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0ee1a01d-05d3-4057-ac9d-fe89590d28a2" name="Changes" comment="" />
-      <created>1743169574089</created>
+      <changelist id="79bfdb4f-8973-4747-a76c-c808f377cbae" name="Changes" comment="" />
+      <created>1743245166544</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1743169574089</updated>
+      <updated>1743245166544</updated>
     </task>
     <servers />
   </component>
